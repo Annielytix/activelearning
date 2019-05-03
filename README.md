@@ -18,7 +18,7 @@ In the terminal, run these four commands:
 ```bash
 cd ~/notebooks
 
-git clone https://github.com/annedroid/active-learning-workshop.git
+git clone https://github.com/annedroid/activelearning.git
 
 cd active-learning-workshop
 
@@ -38,10 +38,10 @@ Accessed via R and Python APIs, pre-trained Deep Learning models and Transfer Le
 
 We have two hands-on, end-to-end active learning-based classification examples:
 
-1. Text Classification: flagging content and tagging personal  preferences
+1. Text Classification: flagging content and tagging words into a common dictionary.
 
 
-Both examples will use similar active learning approaches, but different aspects will be emphasized in the two parts:  
+This will use similar active learning approaches including:
 
 * data exploration
 * featurization
